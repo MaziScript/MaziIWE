@@ -1,0 +1,9 @@
+{
+  "name": "Maziscript_IWE",
+  "description": "MaziScript Writing Environment Online",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "4.x"
+  }
+}

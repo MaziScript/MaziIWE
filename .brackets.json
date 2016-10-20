@@ -1,0 +1,12 @@
+{
+    "jscodehints.detectedExclusions": [
+        "/home/yesterday17/maziIWE/database/connection.js",
+        "/home/yesterday17/maziIWE/public/vendors/DateJS/build/date-ms-MY.js",
+        "/home/yesterday17/maziIWE/public/vendors/DateJS/build/date-de-DE.js",
+        "/home/yesterday17/maziIWE/public/vendors/DateJS/build/date.js",
+        "/home/yesterday17/maziIWE/public/vendors/datatables.net-bs/js/dataTables.bootstrap.js",
+        "/home/yesterday17/maziIWE/public/vendors/DateJS/build/date-ro-RO.js",
+        "/home/yesterday17/maziIWE/public/vendors/datatables.net-bs/js/dataTables.bootstrap.min.js",
+        "/home/yesterday17/maziIWE/public/vendors/DateJS/build/date-ar-MA.js"
+    ]
+}

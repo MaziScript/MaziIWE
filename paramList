@@ -1,0 +1,12 @@
+http://localhost:8964/api?key=kbshinya&
+
+1.请求访问authcode是否存在
+http://localhost:8964/api?key=YOUR_AUTH_CODE
+
+2.请求获取用户信息
+http://localhost:8964/api?key=YOUR_AUTH_CODE&uid=YOUR_UID
+
+3.请求获取制定文章
+http://localhost:8964/api?key=YOUR_AUTH_CODE&uid=YOUR_UID&psn=YOUR_PASSAGE_TITLE
+
+
